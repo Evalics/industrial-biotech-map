@@ -1,0 +1,15 @@
+id: solugen
+name: Solugen
+website: https://solugen.com
+short_description: >-
+  Bio-based chemical manufacturer using enzyme cascades and fermentation for hydrogen peroxide and specialty
+  chemistries.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://solugen.com
+    note: Company website

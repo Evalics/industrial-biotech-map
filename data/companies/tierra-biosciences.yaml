@@ -1,0 +1,13 @@
+id: tierra-biosciences
+name: Tierra Biosciences
+website: https://tierrabiosciences.com
+short_description: Cell-free protein synthesis platform accelerating enzyme and bioprocess candidate screening.
+spaces:
+  - lab_automation
+  - strain_engineering
+  - bioprocess
+primary_space: lab_automation
+hq_country: USA
+sources:
+  - url: https://tierrabiosciences.com
+    note: Company website

@@ -1,0 +1,13 @@
+id: univercells-technologies
+name: Univercells Technologies
+website: https://www.univercells.com
+short_description: Biomanufacturing technology provider offering compact bioreactor platforms and continuous processing solutions.
+spaces:
+  - hardware_bioreactors
+  - bioprocess
+  - cdmo_scaleup
+primary_space: hardware_bioreactors
+hq_country: Belgium
+sources:
+  - url: https://www.univercells.com
+    note: Company website

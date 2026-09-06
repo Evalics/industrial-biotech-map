@@ -1,0 +1,12 @@
+id: puraffinity
+name: Puraffinity
+website: https://puraffinity.com
+short_description: Synthetic biology company designing adsorbent materials for downstream bioprocess purification.
+spaces:
+  - downstream
+  - strain_engineering
+primary_space: downstream
+hq_country: UK
+sources:
+  - url: https://puraffinity.com
+    note: Company website

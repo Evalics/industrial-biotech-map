@@ -1,0 +1,13 @@
+id: prozomix
+name: Prozomix
+website: https://www.prozomix.com
+short_description: Enzyme discovery and biomanufacturing services for industrial biocatalysis and green chemistry.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: UK
+sources:
+  - url: https://www.prozomix.com
+    note: Company website

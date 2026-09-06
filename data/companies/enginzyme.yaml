@@ -1,0 +1,13 @@
+id: enginzyme
+name: EnginZyme
+website: https://enginzyme.com
+short_description: Cell-free immobilized enzyme platform for sustainable chemical manufacturing without fermentation tanks.
+spaces:
+  - bioprocess
+  - downstream
+  - strain_engineering
+primary_space: bioprocess
+hq_country: Sweden
+sources:
+  - url: https://enginzyme.com
+    note: Company website

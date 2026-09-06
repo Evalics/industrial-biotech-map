@@ -1,0 +1,13 @@
+id: pall-corporation
+name: Pall Corporation
+website: https://www.pall.com
+short_description: Filtration and single-use technologies for upstream and downstream biomanufacturing unit operations.
+spaces:
+  - downstream
+  - bioprocess
+  - hardware_bioreactors
+primary_space: downstream
+hq_country: USA
+sources:
+  - url: https://www.pall.com/en/biotech.html
+    note: Biotech solutions

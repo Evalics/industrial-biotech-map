@@ -1,0 +1,13 @@
+id: lanzajet
+name: LanzaJet
+website: https://lanzajet.com
+short_description: Sustainable aviation fuel technology company scaling alcohol-to-jet processes with biotech-derived ethanol.
+spaces:
+  - bioprocess
+  - cdmo_scaleup
+  - downstream
+primary_space: cdmo_scaleup
+hq_country: USA
+sources:
+  - url: https://lanzajet.com
+    note: Company website

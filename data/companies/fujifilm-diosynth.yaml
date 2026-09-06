@@ -1,0 +1,13 @@
+id: fujifilm-diosynth
+name: FUJIFILM Diosynth Biotechnologies
+website: https://fujifilmdiosynth.com
+short_description: CDMO offering microbial and mammalian biologics manufacturing from process development through commercial supply.
+spaces:
+  - cdmo_scaleup
+  - bioprocess
+  - downstream
+primary_space: cdmo_scaleup
+hq_country: UK
+sources:
+  - url: https://fujifilmdiosynth.com
+    note: Company website

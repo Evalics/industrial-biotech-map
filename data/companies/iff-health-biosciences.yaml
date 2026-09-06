@@ -1,0 +1,13 @@
+id: iff-health-biosciences
+name: IFF Health & Biosciences
+website: https://bioscience.iff.com
+short_description: Fermentation-derived cultures, enzymes, and ingredients for food, beverage, and industrial bioprocesses.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://bioscience.iff.com
+    note: Biosciences division

@@ -1,0 +1,13 @@
+id: conagen
+name: Conagen
+website: https://www.conagen.com
+short_description: Precision fermentation manufacturer of natural sweeteners, preservatives, and specialty ingredients.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://www.conagen.com
+    note: Company website

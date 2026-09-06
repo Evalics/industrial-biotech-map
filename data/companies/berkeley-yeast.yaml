@@ -1,0 +1,12 @@
+id: berkeley-yeast
+name: Berkeley Yeast
+website: https://www.berkeleyyeast.com
+short_description: Engineered yeast strains for brewing and industrial fermentation with improved flavor and process performance.
+spaces:
+  - strain_engineering
+  - bioprocess
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://www.berkeleyyeast.com
+    note: Company website

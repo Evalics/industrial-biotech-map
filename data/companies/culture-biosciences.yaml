@@ -1,0 +1,13 @@
+id: culture-biosciences
+name: Culture Biosciences
+website: https://culturebiosciences.com
+short_description: Cloud lab offering remote bioreactor runs and bioprocess data for strain and fermentation development.
+spaces:
+  - bioprocess
+  - lab_automation
+  - hardware_bioreactors
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://culturebiosciences.com
+    note: Company website

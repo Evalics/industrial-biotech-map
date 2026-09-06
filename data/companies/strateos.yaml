@@ -1,0 +1,13 @@
+id: strateos
+name: Strateos
+website: https://strateos.com
+short_description: Cloud lab automation company running remote experiments for synthetic biology and bioprocess R&D.
+spaces:
+  - lab_automation
+  - strain_engineering
+  - bioprocess
+primary_space: lab_automation
+hq_country: USA
+sources:
+  - url: https://strateos.com
+    note: Company website

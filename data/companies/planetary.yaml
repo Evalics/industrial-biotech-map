@@ -1,0 +1,13 @@
+id: planetary
+name: Planetary
+website: https://planetary.ai
+short_description: Bioprocess intelligence platform connecting bioreactor data with AI analytics for manufacturing teams.
+spaces:
+  - ai_ml_bioprocess
+  - software_lims_mes
+  - bioprocess
+primary_space: ai_ml_bioprocess
+hq_country: Switzerland
+sources:
+  - url: https://planetary.ai
+    note: Company website

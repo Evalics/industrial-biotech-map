@@ -1,0 +1,13 @@
+id: cytiva
+name: Cytiva
+website: https://www.cytivalifesciences.com
+short_description: Bioprocess equipment and consumables supplier for upstream and downstream biomanufacturing workflows.
+spaces:
+  - hardware_bioreactors
+  - bioprocess
+  - downstream
+primary_space: hardware_bioreactors
+hq_country: USA
+sources:
+  - url: https://www.cytivalifesciences.com
+    note: Company website

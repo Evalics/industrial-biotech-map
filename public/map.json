@@ -1,0 +1,1979 @@
+{
+  "taxonomy": [
+    {
+      "id": "bioprocess",
+      "label": "Bioprocess",
+      "color": "#0d9488"
+    },
+    {
+      "id": "strain_engineering",
+      "label": "Strain Engineering",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "lab_automation",
+      "label": "Lab Automation",
+      "color": "#2563eb"
+    },
+    {
+      "id": "ai_ml_bioprocess",
+      "label": "AI / ML Bioprocess",
+      "color": "#db2777"
+    },
+    {
+      "id": "software_lims_mes",
+      "label": "Software / LIMS / MES",
+      "color": "#0891b2"
+    },
+    {
+      "id": "downstream",
+      "label": "Downstream",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "media_inputs",
+      "label": "Media & Inputs",
+      "color": "#65a30d"
+    },
+    {
+      "id": "analytical_qc",
+      "label": "Analytical / QC",
+      "color": "#ea580c"
+    },
+    {
+      "id": "cdmo_scaleup",
+      "label": "CDMO / Scale-up",
+      "color": "#dc2626"
+    },
+    {
+      "id": "hardware_bioreactors",
+      "label": "Hardware / Bioreactors",
+      "color": "#4f46e5"
+    }
+  ],
+  "companies": [
+    {
+      "id": "908-devices",
+      "name": "908 Devices",
+      "website": "https://908devices.com",
+      "short_description": "Analytical instruments including REBEL and ZipChip for at-line media analysis and bioprocess monitoring.",
+      "spaces": [
+        "analytical_qc",
+        "bioprocess"
+      ],
+      "primary_space": "analytical_qc",
+      "sources": [
+        {
+          "url": "https://908devices.com/applications/bioprocessing/",
+          "note": "Bioprocessing applications"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -10.25547071175879,
+      "y": -86.63955741414573
+    },
+    {
+      "id": "absci",
+      "name": "Absci",
+      "website": "https://www.absci.com",
+      "short_description": "AI-driven biologics design and cell line development with integrated biomanufacturing capabilities.",
+      "spaces": [
+        "ai_ml_bioprocess",
+        "strain_engineering",
+        "cdmo_scaleup"
+      ],
+      "primary_space": "ai_ml_bioprocess",
+      "sources": [
+        {
+          "url": "https://www.absci.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -4.334672477955948,
+      "y": 73.98521969057845
+    },
+    {
+      "id": "abzena",
+      "name": "Abzena",
+      "website": "https://abzena.com",
+      "short_description": "Bioconjugation and biologics CDMO supporting process development and GMP manufacturing.",
+      "spaces": [
+        "cdmo_scaleup",
+        "downstream",
+        "analytical_qc"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://abzena.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "UK",
+      "x": -188.50038856766423,
+      "y": 169.16754527236674
+    },
+    {
+      "id": "amyris",
+      "name": "Amyris",
+      "website": "https://amyris.com",
+      "short_description": "Synthetic biology company producing fermentation-derived ingredients for clean beauty, health, and specialty chemicals.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://amyris.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 71.40918284274113,
+      "y": -52.18261063406734
+    },
+    {
+      "id": "angel-yeast",
+      "name": "Angel Yeast",
+      "website": "https://www.angelyeast.com",
+      "short_description": "Global yeast and fermentation ingredient supplier for food, animal nutrition, and bioprocess media.",
+      "spaces": [
+        "media_inputs",
+        "bioprocess",
+        "strain_engineering"
+      ],
+      "primary_space": "media_inputs",
+      "sources": [
+        {
+          "url": "https://www.angelyeast.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "China",
+      "x": 64.59825824028414,
+      "y": -130.08154438610535
+    },
+    {
+      "id": "antheia",
+      "name": "Antheia",
+      "website": "https://antheia.bio",
+      "short_description": "Biomanufacturing company producing pharmaceutical precursors and key starting materials via fermentation.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://antheia.bio",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 64.36750669164142,
+      "y": -6.347379899917703
+    },
+    {
+      "id": "applikon-biotechnology",
+      "name": "Applikon Biotechnology",
+      "website": "https://www.applikon-biotechnology.com",
+      "short_description": "Bioreactor systems and controllers for laboratory and pilot-scale microbial fermentation development.",
+      "spaces": [
+        "hardware_bioreactors",
+        "bioprocess"
+      ],
+      "primary_space": "hardware_bioreactors",
+      "sources": [
+        {
+          "url": "https://www.applikon-biotechnology.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Netherlands",
+      "x": -39.19285291365095,
+      "y": -80.73695730089426
+    },
+    {
+      "id": "arzeda",
+      "name": "Arzeda",
+      "website": "https://arzeda.com",
+      "short_description": "Computational protein design company building custom enzymes and pathways for industrial biomanufacturing.",
+      "spaces": [
+        "strain_engineering",
+        "ai_ml_bioprocess",
+        "bioprocess"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://arzeda.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 133.91020341639077,
+      "y": 63.07186071743358
+    },
+    {
+      "id": "asimov",
+      "name": "Asimov",
+      "website": "https://www.asimov.com",
+      "short_description": "Synthetic biology design platform combining CAD, simulation, and cell-line engineering for biomanufacturing.",
+      "spaces": [
+        "strain_engineering",
+        "ai_ml_bioprocess",
+        "software_lims_mes"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://www.asimov.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 165.47454719094267,
+      "y": 116.46358800768182
+    },
+    {
+      "id": "back-of-the-yards-algae",
+      "name": "Back of the Yards Algae Sciences",
+      "website": "https://byas.ai",
+      "short_description": "Algae fermentation and bioprocess ingredients for food colors, proteins, and sustainable chemicals.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://byas.ai",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 79.01815834472475,
+      "y": -92.63353143367286
+    },
+    {
+      "id": "benchling",
+      "name": "Benchling",
+      "website": "https://www.benchling.com",
+      "short_description": "R&D cloud platform for molecular biology, strain design, and bioprocess data management in biotech.",
+      "spaces": [
+        "software_lims_mes",
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "software_lims_mes",
+      "sources": [
+        {
+          "url": "https://www.benchling.com/bioprocess",
+          "note": "Bioprocess solutions"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 120.39308775124897,
+      "y": 19.18577623988028
+    },
+    {
+      "id": "berkeley-yeast",
+      "name": "Berkeley Yeast",
+      "website": "https://www.berkeleyyeast.com",
+      "short_description": "Engineered yeast strains for brewing and industrial fermentation with improved flavor and process performance.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://www.berkeleyyeast.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 129.1883147934273,
+      "y": 86.50393526222506
+    },
+    {
+      "id": "biohm",
+      "name": "Biohm",
+      "website": "https://biohm.co.uk",
+      "short_description": "Biotechnology company using mycelium fermentation for sustainable building materials and circular manufacturing.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://biohm.co.uk",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "UK",
+      "x": 57.78987574079104,
+      "y": -0.09115277993720208
+    },
+    {
+      "id": "bolt-threads",
+      "name": "Bolt Threads",
+      "website": "https://boltthreads.com",
+      "short_description": "Materials company using fermentation to produce Mylo leather and spider-silk-inspired fibers at industrial scale.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://boltthreads.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 65.3718760399989,
+      "y": 2.2757962758355457
+    },
+    {
+      "id": "braskem-renewable",
+      "name": "Braskem (I'm green)",
+      "website": "https://www.braskem.com.br/igrn",
+      "short_description": "Producer of bio-based polyethylene and renewable chemicals from sugarcane ethanol feedstocks.",
+      "spaces": [
+        "bioprocess",
+        "downstream",
+        "cdmo_scaleup"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.braskem.com.br/igrn",
+          "note": "I'm green bio-based portfolio"
+        }
+      ],
+      "hq_country": "Brazil",
+      "x": -64.31600957719874,
+      "y": 9.886059456017628
+    },
+    {
+      "id": "calysta",
+      "name": "Calysta",
+      "website": "https://calysta.com",
+      "short_description": "Protein ingredients company using gas fermentation to produce FeedKind single-cell protein for aquaculture.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://calysta.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 78.36245444635888,
+      "y": -62.44651663842018
+    },
+    {
+      "id": "carbios",
+      "name": "Carbios",
+      "website": "https://carbios.com",
+      "short_description": "Enzymatic recycling and bioprocess technologies for PET plastic depolymerization and circular materials.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://carbios.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "France",
+      "x": 51.55663363206454,
+      "y": -32.71044693054092
+    },
+    {
+      "id": "catalent",
+      "name": "Catalent",
+      "website": "https://www.catalent.com",
+      "short_description": "Contract development and manufacturing organization for biologics, microbial, and cell therapy production.",
+      "spaces": [
+        "cdmo_scaleup",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://www.catalent.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -150.97311918500304,
+      "y": 117.51157230247593
+    },
+    {
+      "id": "checkerspot",
+      "name": "Checkerspot",
+      "website": "https://checkerspot.com",
+      "short_description": "Materials science company using microalgae fermentation to produce performance oils and polyurethane inputs.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://checkerspot.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 66.49157063723354,
+      "y": -23.21558586352105
+    },
+    {
+      "id": "christeyns-bio",
+      "name": "Christeyns Food & Bioprocessing",
+      "website": "https://www.christeyns.com/food-bioprocessing",
+      "short_description": "Bioprocessing solutions and hygiene technology for fermented food and industrial biotechnology plants.",
+      "spaces": [
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.christeyns.com/food-bioprocessing",
+          "note": "Food & bioprocessing"
+        }
+      ],
+      "hq_country": "Belgium",
+      "x": -13.334382634585825,
+      "y": -60.32121482919604
+    },
+    {
+      "id": "conagen",
+      "name": "Conagen",
+      "website": "https://www.conagen.com",
+      "short_description": "Precision fermentation manufacturer of natural sweeteners, preservatives, and specialty ingredients.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.conagen.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 61.45832403487217,
+      "y": -12.86039655619587
+    },
+    {
+      "id": "corbion",
+      "name": "Corbion",
+      "website": "https://www.corbion.com",
+      "short_description": "Lactic acid and fermentation-derived ingredients manufacturer for food preservation and bioplastics.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.corbion.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Netherlands",
+      "x": 54.17250501954241,
+      "y": -20.897201605380808
+    },
+    {
+      "id": "culture-biosciences",
+      "name": "Culture Biosciences",
+      "website": "https://culturebiosciences.com",
+      "short_description": "Cloud lab offering remote bioreactor runs and bioprocess data for strain and fermentation development.",
+      "spaces": [
+        "bioprocess",
+        "lab_automation",
+        "hardware_bioreactors"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://culturebiosciences.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 45.98679081614592,
+      "y": -70.26027890614218
+    },
+    {
+      "id": "cytiva",
+      "name": "Cytiva",
+      "website": "https://www.cytivalifesciences.com",
+      "short_description": "Bioprocess equipment and consumables supplier for upstream and downstream biomanufacturing workflows.",
+      "spaces": [
+        "hardware_bioreactors",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "hardware_bioreactors",
+      "sources": [
+        {
+          "url": "https://www.cytivalifesciences.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -40.3193742780577,
+      "y": -111.08198901618074
+    },
+    {
+      "id": "danimer-scientific",
+      "name": "Danimer Scientific",
+      "website": "https://danimerscientific.com",
+      "short_description": "Bioplastics manufacturer producing PHA polymers via fermentation for packaging and consumer applications.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://danimerscientific.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 62.17890966545286,
+      "y": -5.8724260392130345
+    },
+    {
+      "id": "debut-biotechnology",
+      "name": "Debut Biotechnology",
+      "website": "https://debutbio.com",
+      "short_description": "Cell-free and fermentation biomanufacturing platform for rare cosmetic and wellness ingredients.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://debutbio.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 64.21593397204248,
+      "y": -11.440239497637668
+    },
+    {
+      "id": "deepcell",
+      "name": "Deepcell",
+      "website": "https://deepcell.com",
+      "short_description": "AI-powered single-cell analysis and sorting platform applied to cell line development and bioprocess research.",
+      "spaces": [
+        "ai_ml_bioprocess",
+        "analytical_qc",
+        "lab_automation"
+      ],
+      "primary_space": "ai_ml_bioprocess",
+      "sources": [
+        {
+          "url": "https://deepcell.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 16.556938084302768,
+      "y": -67.50823339780744
+    },
+    {
+      "id": "demetrix",
+      "name": "Demetrix",
+      "website": "https://demetrixbio.com",
+      "short_description": "Fermentation platform for rare cannabinoids and other high-value natural products at commercial scale.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://demetrixbio.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 62.24288298756494,
+      "y": 4.698755628997612
+    },
+    {
+      "id": "differential-bio",
+      "name": "Differential Bio",
+      "website": "https://differential.bio",
+      "short_description": "Software and analytics for industrial biotech strain selection, bioprocess optimization, and biomanufacturing intelligence.",
+      "spaces": [
+        "ai_ml_bioprocess",
+        "software_lims_mes",
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "ai_ml_bioprocess",
+      "sources": [
+        {
+          "url": "https://differential.bio",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "highlight": true,
+      "x": 116.84652728057354,
+      "y": -47.13902784841636
+    },
+    {
+      "id": "dmc-biotechnologies",
+      "name": "DMC Biotechnologies",
+      "website": "https://dmcbio.com",
+      "short_description": "Dynamic metabolic control platform for rapid fermentation strain optimization and bioprocess development.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "ai_ml_bioprocess"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://dmcbio.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 163.47301555826743,
+      "y": 53.63037988969984
+    },
+    {
+      "id": "dsm-firmenich",
+      "name": "dsm-firmenich",
+      "website": "https://www.dsm-firmenich.com",
+      "short_description": "Ingredients company with fermentation platforms for vitamins, cultures, and bio-based aroma molecules.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.dsm-firmenich.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Switzerland",
+      "x": 57.2918709103236,
+      "y": -14.824455915420337
+    },
+    {
+      "id": "enginzyme",
+      "name": "EnginZyme",
+      "website": "https://enginzyme.com",
+      "short_description": "Cell-free immobilized enzyme platform for sustainable chemical manufacturing without fermentation tanks.",
+      "spaces": [
+        "bioprocess",
+        "downstream",
+        "strain_engineering"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://enginzyme.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Sweden",
+      "x": 49.05191319878111,
+      "y": 6.802599689887362
+    },
+    {
+      "id": "enobraq",
+      "name": "EnobraQ",
+      "website": "https://enobaq.com",
+      "short_description": "Gas fermentation startup producing single-cell protein from industrial CO2 emissions.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://enobaq.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "France",
+      "x": 67.64804362471402,
+      "y": -53.790104084693645
+    },
+    {
+      "id": "epoch-biodesign",
+      "name": "Epoch Biodesign",
+      "website": "https://epochbiodesign.com",
+      "short_description": "Enzyme engineering company using ML to design biocatalysts for plastic degradation and green chemistry.",
+      "spaces": [
+        "strain_engineering",
+        "ai_ml_bioprocess",
+        "bioprocess"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://epochbiodesign.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "UK",
+      "x": 154.15887873449734,
+      "y": 89.1668151134303
+    },
+    {
+      "id": "eppendorf-bioprocess",
+      "name": "Eppendorf Bioprocess",
+      "website": "https://www.eppendorf.com/bioprocess/",
+      "short_description": "Benchtop and pilot bioreactor systems with software for microbial and cell culture process development.",
+      "spaces": [
+        "hardware_bioreactors",
+        "bioprocess",
+        "software_lims_mes"
+      ],
+      "primary_space": "hardware_bioreactors",
+      "sources": [
+        {
+          "url": "https://www.eppendorf.com/bioprocess/",
+          "note": "Bioprocess portfolio"
+        }
+      ],
+      "hq_country": "Germany",
+      "x": -31.81782663713949,
+      "y": -119.69507931165472
+    },
+    {
+      "id": "evonetix",
+      "name": "Evonetix",
+      "website": "https://www.evonetix.com",
+      "short_description": "Silicon-based DNA synthesis technology enabling rapid build-test cycles for strain engineering.",
+      "spaces": [
+        "strain_engineering",
+        "lab_automation"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://www.evonetix.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "UK",
+      "x": 186.13009209370622,
+      "y": 195.2641219428329
+    },
+    {
+      "id": "fermbox-bio",
+      "name": "Fermbox Bio",
+      "website": "https://fermbox.bio",
+      "short_description": "Synthetic biology CDMO focused on enzyme and small-molecule fermentation for industrial partners.",
+      "spaces": [
+        "cdmo_scaleup",
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://fermbox.bio",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "India",
+      "x": -70.2510418874382,
+      "y": 186.44313629780314
+    },
+    {
+      "id": "formo",
+      "name": "Formo",
+      "website": "https://formo.bio",
+      "short_description": "Animal-free dairy company using precision fermentation to produce cheese proteins in Europe.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://formo.bio",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Germany",
+      "x": 70.05914527705139,
+      "y": -6.674895442266261
+    },
+    {
+      "id": "freeslate",
+      "name": "Freeslate",
+      "website": "https://www.freeslate.com",
+      "short_description": "High-throughput experimentation automation for bioprocess and catalyst screening in industrial R&D.",
+      "spaces": [
+        "lab_automation",
+        "bioprocess"
+      ],
+      "primary_space": "lab_automation",
+      "sources": [
+        {
+          "url": "https://www.freeslate.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 46.29069829329543,
+      "y": -1.4950061789624725
+    },
+    {
+      "id": "fujifilm-diosynth",
+      "name": "FUJIFILM Diosynth Biotechnologies",
+      "website": "https://fujifilmdiosynth.com",
+      "short_description": "CDMO offering microbial and mammalian biologics manufacturing from process development through commercial supply.",
+      "spaces": [
+        "cdmo_scaleup",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://fujifilmdiosynth.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "UK",
+      "x": -191.39892549441853,
+      "y": 149.48555578056497
+    },
+    {
+      "id": "genomatica",
+      "name": "Genomatica",
+      "website": "https://genomatica.com",
+      "short_description": "Develops and licenses fermentation processes for bio-based nylon, BDO, and other industrial chemicals.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "cdmo_scaleup"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://genomatica.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 75.4942334910397,
+      "y": 146.63263712706436
+    },
+    {
+      "id": "ginkgo-bioworks",
+      "name": "Ginkgo Bioworks",
+      "website": "https://www.ginkgobioworks.com",
+      "short_description": "Cell programming platform for engineered microbes used in flavors, fragrances, agriculture, and biomanufacturing.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "cdmo_scaleup"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://www.ginkgobioworks.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 74.06827351645724,
+      "y": 152.1826720439325
+    },
+    {
+      "id": "global-bioenergies",
+      "name": "Global Bioenergies",
+      "website": "https://www.global-bioenergies.com",
+      "short_description": "Industrial biotech developing fermentation routes to isobutene and renewable gasoline components.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "cdmo_scaleup"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.global-bioenergies.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "France",
+      "x": 9.15727061781329,
+      "y": 56.9813542856637
+    },
+    {
+      "id": "green-lab-technologies",
+      "name": "Green Lab Technologies",
+      "website": "https://greenlabtechnologies.com",
+      "short_description": "Fermentation-derived ingredients and toll manufacturing for food, beverage, and nutraceutical brands.",
+      "spaces": [
+        "bioprocess",
+        "cdmo_scaleup",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://greenlabtechnologies.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -44.14655686403508,
+      "y": -47.360042413412884
+    },
+    {
+      "id": "hexagon-bio",
+      "name": "Hexagon Bio",
+      "website": "https://www.hexagonbio.com",
+      "short_description": "Genomics platform mining microbial genomes for novel enzymes used in industrial bioprocesses.",
+      "spaces": [
+        "strain_engineering",
+        "ai_ml_bioprocess"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://www.hexagonbio.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 127.97324497935203,
+      "y": 102.03838637006699
+    },
+    {
+      "id": "iff-health-biosciences",
+      "name": "IFF Health & Biosciences",
+      "website": "https://bioscience.iff.com",
+      "short_description": "Fermentation-derived cultures, enzymes, and ingredients for food, beverage, and industrial bioprocesses.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://bioscience.iff.com",
+          "note": "Biosciences division"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 76.57045757598424,
+      "y": -58.32834395618737
+    },
+    {
+      "id": "inscripta",
+      "name": "Inscripta",
+      "website": "https://www.inscripta.com",
+      "short_description": "Genome engineering tools including Onyx platform for rapid strain improvement in industrial microbes.",
+      "spaces": [
+        "strain_engineering",
+        "lab_automation"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://www.inscripta.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 200,
+      "y": 200
+    },
+    {
+      "id": "knipbio",
+      "name": "KnipBio",
+      "website": "https://www.knipbio.com",
+      "short_description": "Single-cell protein producer using methanol-assimilating microbes for sustainable aquaculture feed.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.knipbio.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 68.33629482529774,
+      "y": -43.52831775465936
+    },
+    {
+      "id": "lallemand-bio-ingredients",
+      "name": "Lallemand Bio-Ingredients",
+      "website": "https://www.lallemand.com/bio-ingredients/",
+      "short_description": "Manufacturer of yeast extracts, fermented ingredients, and specialty media components for bioprocess.",
+      "spaces": [
+        "media_inputs",
+        "bioprocess"
+      ],
+      "primary_space": "media_inputs",
+      "sources": [
+        {
+          "url": "https://www.lallemand.com/bio-ingredients/",
+          "note": "Bio-Ingredients division"
+        }
+      ],
+      "hq_country": "Canada",
+      "x": 10.116174648410665,
+      "y": -183.06496504375883
+    },
+    {
+      "id": "lanzajet",
+      "name": "LanzaJet",
+      "website": "https://lanzajet.com",
+      "short_description": "Sustainable aviation fuel technology company scaling alcohol-to-jet processes with biotech-derived ethanol.",
+      "spaces": [
+        "bioprocess",
+        "cdmo_scaleup",
+        "downstream"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://lanzajet.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -114.6601876102258,
+      "y": 98.36257056150536
+    },
+    {
+      "id": "lanzatech",
+      "name": "LanzaTech",
+      "website": "https://lanzatech.com",
+      "short_description": "Carbon recycling biotech converting waste gases into ethanol and platform chemicals via gas fermentation.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "hardware_bioreactors",
+        "cdmo_scaleup"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://lanzatech.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 10.37624755151891,
+      "y": 31.998402596277277
+    },
+    {
+      "id": "liberation-labs",
+      "name": "Liberation Labs",
+      "website": "https://liberationlabs.com",
+      "short_description": "Precision fermentation CDMO building dedicated capacity for food and industrial protein manufacturing.",
+      "spaces": [
+        "cdmo_scaleup",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://liberationlabs.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -148.2838647713676,
+      "y": 124.08098938901324
+    },
+    {
+      "id": "locus-bio",
+      "name": "Locus Bio",
+      "website": "https://locusbio.com",
+      "short_description": "Microbial solutions company using fermentation-derived biosurfactants for agriculture and industrial cleaning.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://locusbio.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 71.81999018273231,
+      "y": 5.018270205741645
+    },
+    {
+      "id": "lonza",
+      "name": "Lonza",
+      "website": "https://www.lonza.com",
+      "short_description": "Global CDMO providing bioprocess development, mammalian manufacturing, and microbial production services.",
+      "spaces": [
+        "cdmo_scaleup",
+        "bioprocess",
+        "downstream",
+        "analytical_qc"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://www.lonza.com/biologics",
+          "note": "Biologics division"
+        }
+      ],
+      "hq_country": "Switzerland",
+      "x": -183.33552822351436,
+      "y": 104.18777813122963
+    },
+    {
+      "id": "lygos",
+      "name": "Lygos",
+      "website": "https://lygos.com",
+      "short_description": "Specialty chemicals producer using synthetic biology to make malonic acid and other bio-based building blocks.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://lygos.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 128.1076636029061,
+      "y": 99.76622675443814
+    },
+    {
+      "id": "manus-bio",
+      "name": "Manus Bio",
+      "website": "https://manusbio.com",
+      "short_description": "Natural product biomanufacturing company using fermentation to replace plant extraction for flavors and fragrances.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://manusbio.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 77.38631437565583,
+      "y": -48.24320049208759
+    },
+    {
+      "id": "milliporesigma",
+      "name": "MilliporeSigma",
+      "website": "https://www.sigmaaldrich.com",
+      "short_description": "Life science materials supplier providing filtration, chromatography, and bioprocess raw materials.",
+      "spaces": [
+        "downstream",
+        "media_inputs",
+        "analytical_qc"
+      ],
+      "primary_space": "downstream",
+      "sources": [
+        {
+          "url": "https://www.sigmaaldrich.com/US/en/industries/biopharmaceutical-manufacturing",
+          "note": "Biopharma manufacturing"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -26.538740104560954,
+      "y": -77.64238490594467
+    },
+    {
+      "id": "modern-meadow",
+      "name": "Modern Meadow",
+      "website": "https://modernmeadow.com",
+      "short_description": "Biofabrication company developing fermentation-derived proteins and biomaterials for fashion and consumer goods.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://modernmeadow.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 119.34438345817526,
+      "y": 80.18516381010895
+    },
+    {
+      "id": "motif-foodworks",
+      "name": "Motif FoodWorks",
+      "website": "https://madewithmotif.com",
+      "short_description": "Food technology company using fermentation and ingredient science for plant-based product performance.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://madewithmotif.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 73.88234123714582,
+      "y": -54.2929081566039
+    },
+    {
+      "id": "resilience",
+      "name": "National Resilience",
+      "website": "https://resilience.com",
+      "short_description": "Biomanufacturing technology company operating CDMO facilities for biologics and advanced therapies.",
+      "spaces": [
+        "cdmo_scaleup",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://resilience.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -157.9480555665554,
+      "y": 138.18990858918264
+    },
+    {
+      "id": "natures-fynd",
+      "name": "Nature's Fynd",
+      "website": "https://naturesfynd.com",
+      "short_description": "Food company commercializing Fy protein from a novel extremophile microbe grown in fermentation.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://naturesfynd.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 76.32182541334443,
+      "y": -51.75886404910598
+    },
+    {
+      "id": "noblegen",
+      "name": "Noblegen",
+      "website": "https://noblegen.com",
+      "short_description": "Euglena fermentation platform producing functional ingredients and alternative proteins.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://noblegen.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Canada",
+      "x": 73.01947422501172,
+      "y": -56.33150908987242
+    },
+    {
+      "id": "novonesis",
+      "name": "Novonesis",
+      "website": "https://www.novonesis.com",
+      "short_description": "Industrial biosolutions company producing enzymes and microbial cultures for food, bioenergy, and biomanufacturing.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.novonesis.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Denmark",
+      "x": 63.69923525773711,
+      "y": -41.53139806203438
+    },
+    {
+      "id": "opentrons",
+      "name": "Opentrons",
+      "website": "https://opentrons.com",
+      "short_description": "Lab automation platform with open-source pipetting robots used in strain engineering and screening workflows.",
+      "spaces": [
+        "lab_automation",
+        "strain_engineering"
+      ],
+      "primary_space": "lab_automation",
+      "sources": [
+        {
+          "url": "https://opentrons.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 167.14990043730347,
+      "y": 173.43042105850483
+    },
+    {
+      "id": "pall-corporation",
+      "name": "Pall Corporation",
+      "website": "https://www.pall.com",
+      "short_description": "Filtration and single-use technologies for upstream and downstream biomanufacturing unit operations.",
+      "spaces": [
+        "downstream",
+        "bioprocess",
+        "hardware_bioreactors"
+      ],
+      "primary_space": "downstream",
+      "sources": [
+        {
+          "url": "https://www.pall.com/en/biotech.html",
+          "note": "Biotech solutions"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -46.46478587360649,
+      "y": -58.774512841851404
+    },
+    {
+      "id": "perfect-day",
+      "name": "Perfect Day",
+      "website": "https://perfectday.com",
+      "short_description": "Animal-free dairy proteins produced via precision fermentation for food and beverage manufacturers.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://perfectday.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 61.127314476523196,
+      "y": -9.829050314295772
+    },
+    {
+      "id": "planetary",
+      "name": "Planetary",
+      "website": "https://planetary.ai",
+      "short_description": "Bioprocess intelligence platform connecting bioreactor data with AI analytics for manufacturing teams.",
+      "spaces": [
+        "ai_ml_bioprocess",
+        "software_lims_mes",
+        "bioprocess"
+      ],
+      "primary_space": "ai_ml_bioprocess",
+      "sources": [
+        {
+          "url": "https://planetary.ai",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Switzerland",
+      "x": 9.69624575520851,
+      "y": -123.62766867591144
+    },
+    {
+      "id": "pow-bio",
+      "name": "Pow.bio",
+      "website": "https://pow.bio",
+      "short_description": "Continuous fermentation technology company improving bioprocess productivity with smart bioreactor control.",
+      "spaces": [
+        "bioprocess",
+        "hardware_bioreactors",
+        "ai_ml_bioprocess"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://pow.bio",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 9.690508816593525,
+      "y": -148.73619509872677
+    },
+    {
+      "id": "prozomix",
+      "name": "Prozomix",
+      "website": "https://www.prozomix.com",
+      "short_description": "Enzyme discovery and biomanufacturing services for industrial biocatalysis and green chemistry.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.prozomix.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "UK",
+      "x": 51.39771778043956,
+      "y": 12.274600677490897
+    },
+    {
+      "id": "puraffinity",
+      "name": "Puraffinity",
+      "website": "https://puraffinity.com",
+      "short_description": "Synthetic biology company designing adsorbent materials for downstream bioprocess purification.",
+      "spaces": [
+        "downstream",
+        "strain_engineering"
+      ],
+      "primary_space": "downstream",
+      "sources": [
+        {
+          "url": "https://puraffinity.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "UK",
+      "x": 30.312625293134417,
+      "y": 38.15743576280129
+    },
+    {
+      "id": "quartet-fs",
+      "name": "Quartet FS",
+      "website": "https://www.quartetfs.com",
+      "short_description": "Manufacturing data platform (ActivePivot) used for bioprocess batch analytics and golden-batch monitoring.",
+      "spaces": [
+        "software_lims_mes",
+        "bioprocess",
+        "analytical_qc"
+      ],
+      "primary_space": "software_lims_mes",
+      "sources": [
+        {
+          "url": "https://www.quartetfs.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Luxembourg",
+      "x": 5.401665792658233,
+      "y": -72.94060998517979
+    },
+    {
+      "id": "recipharm",
+      "name": "Recipharm",
+      "website": "https://www.recipharm.com",
+      "short_description": "Contract development and manufacturing organization with biologics and microbial production capabilities.",
+      "spaces": [
+        "cdmo_scaleup",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://www.recipharm.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Sweden",
+      "x": -157.5838833963004,
+      "y": 117.8757166824941
+    },
+    {
+      "id": "remilk",
+      "name": "Remilk",
+      "website": "https://www.remilk.com",
+      "short_description": "Precision fermentation dairy proteins produced without cows for global food ingredient supply.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "cdmo_scaleup"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://www.remilk.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Israel",
+      "x": 6.648967737434922,
+      "y": 48.53725318442299
+    },
+    {
+      "id": "repligen",
+      "name": "Repligen",
+      "website": "https://www.repligen.com",
+      "short_description": "Bioprocess equipment and consumables for filtration, chromatography, and process analytics.",
+      "spaces": [
+        "downstream",
+        "bioprocess",
+        "analytical_qc"
+      ],
+      "primary_space": "downstream",
+      "sources": [
+        {
+          "url": "https://www.repligen.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -26.508516001897732,
+      "y": -61.141593991024976
+    },
+    {
+      "id": "roquette",
+      "name": "Roquette",
+      "website": "https://www.roquette.com",
+      "short_description": "Plant-based and fermentation-derived ingredients supplier for nutrition, pharma, and bioprocess media.",
+      "spaces": [
+        "media_inputs",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "media_inputs",
+      "sources": [
+        {
+          "url": "https://www.roquette.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "France",
+      "x": -3.6794250922274903,
+      "y": -187.4705312764877
+    },
+    {
+      "id": "samsung-biologics",
+      "name": "Samsung Biologics",
+      "website": "https://samsungbiologics.com",
+      "short_description": "Large-scale biologics CDMO operating some of the world's biggest mammalian cell culture manufacturing facilities.",
+      "spaces": [
+        "cdmo_scaleup",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://samsungbiologics.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "South Korea",
+      "x": -200,
+      "y": 157.63928970457485
+    },
+    {
+      "id": "sartorius",
+      "name": "Sartorius",
+      "website": "https://www.sartorius.com",
+      "short_description": "Bioprocess hardware and analytics provider offering bioreactors, filtration, and PAT tools for manufacturing.",
+      "spaces": [
+        "hardware_bioreactors",
+        "bioprocess",
+        "analytical_qc"
+      ],
+      "primary_space": "hardware_bioreactors",
+      "sources": [
+        {
+          "url": "https://www.sartorius.com/en/products/process-analytical-technology",
+          "note": "PAT products"
+        }
+      ],
+      "hq_country": "Germany",
+      "x": -55.38856338037896,
+      "y": -140.86468355515967
+    },
+    {
+      "id": "scispot",
+      "name": "Scispot",
+      "website": "https://www.scispot.com",
+      "short_description": "Lab data platform and ELN for biotech R&D teams managing strain engineering and bioprocess records.",
+      "spaces": [
+        "software_lims_mes",
+        "strain_engineering"
+      ],
+      "primary_space": "software_lims_mes",
+      "sources": [
+        {
+          "url": "https://www.scispot.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Canada",
+      "x": 142.67880040271797,
+      "y": 75.04602998422737
+    },
+    {
+      "id": "solugen",
+      "name": "Solugen",
+      "website": "https://solugen.com",
+      "short_description": "Bio-based chemical manufacturer using enzyme cascades and fermentation for hydrogen peroxide and specialty chemistries.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://solugen.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 64.26087189037017,
+      "y": -0.8465755510633631
+    },
+    {
+      "id": "strateos",
+      "name": "Strateos",
+      "website": "https://strateos.com",
+      "short_description": "Cloud lab automation company running remote experiments for synthetic biology and bioprocess R&D.",
+      "spaces": [
+        "lab_automation",
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "lab_automation",
+      "sources": [
+        {
+          "url": "https://strateos.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 116.91846940366963,
+      "y": 57.974454525102516
+    },
+    {
+      "id": "string-bio",
+      "name": "String Bio",
+      "website": "https://stringbio.com",
+      "short_description": "Methane-to-protein biotech using gas fermentation for sustainable feed and food ingredients.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering",
+        "media_inputs"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://stringbio.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "India",
+      "x": 68.67380610679052,
+      "y": -61.85562801674737
+    },
+    {
+      "id": "synthace",
+      "name": "Synthace",
+      "website": "https://www.synthace.com",
+      "short_description": "Digital experiment platform (Anthaa) for designing and executing automated bioprocess and strain workflows.",
+      "spaces": [
+        "lab_automation",
+        "software_lims_mes",
+        "bioprocess"
+      ],
+      "primary_space": "lab_automation",
+      "sources": [
+        {
+          "url": "https://www.synthace.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "UK",
+      "x": 72.17481057430743,
+      "y": 2.251345347670351
+    },
+    {
+      "id": "every-company",
+      "name": "The EVERY Company",
+      "website": "https://every.com",
+      "short_description": "Precision fermentation company producing animal-free egg proteins for food manufacturers.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess",
+        "downstream"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://every.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 69.86271229917047,
+      "y": -11.5859196622147
+    },
+    {
+      "id": "thermo-fisher-bioprocess",
+      "name": "Thermo Fisher Scientific (Bioproduction)",
+      "website": "https://www.thermofisher.com/us/en/home/brands/gibco.html",
+      "short_description": "Supplier of cell culture media, single-use bioreactors, and bioproduction analytics for biomanufacturing.",
+      "spaces": [
+        "media_inputs",
+        "hardware_bioreactors",
+        "bioprocess",
+        "analytical_qc"
+      ],
+      "primary_space": "media_inputs",
+      "sources": [
+        {
+          "url": "https://www.thermofisher.com/us/en/home/brands/gibco.html",
+          "note": "Gibco bioproduction"
+        }
+      ],
+      "hq_country": "USA",
+      "x": -25.180048915015796,
+      "y": -200
+    },
+    {
+      "id": "tierra-biosciences",
+      "name": "Tierra Biosciences",
+      "website": "https://tierrabiosciences.com",
+      "short_description": "Cell-free protein synthesis platform accelerating enzyme and bioprocess candidate screening.",
+      "spaces": [
+        "lab_automation",
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "lab_automation",
+      "sources": [
+        {
+          "url": "https://tierrabiosciences.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 104.45491101535988,
+      "y": 42.41888075374891
+    },
+    {
+      "id": "tulip-interfaces",
+      "name": "Tulip Interfaces",
+      "website": "https://tulip.co",
+      "short_description": "Frontline operations platform used in biomanufacturing for MES-style batch records and shop-floor data capture.",
+      "spaces": [
+        "software_lims_mes",
+        "bioprocess"
+      ],
+      "primary_space": "software_lims_mes",
+      "sources": [
+        {
+          "url": "https://tulip.co/industries/life-sciences/",
+          "note": "Life sciences"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 26.59054777087252,
+      "y": -37.64391503070713
+    },
+    {
+      "id": "twist-bioscience",
+      "name": "Twist Bioscience",
+      "website": "https://www.twistbioscience.com",
+      "short_description": "Synthetic DNA manufacturer supporting strain engineering, enzyme discovery, and bioprocess R&D.",
+      "spaces": [
+        "strain_engineering",
+        "lab_automation"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://www.twistbioscience.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 197.40086361022813,
+      "y": 165.6090355069084
+    },
+    {
+      "id": "univercells-technologies",
+      "name": "Univercells Technologies",
+      "website": "https://www.univercells.com",
+      "short_description": "Biomanufacturing technology provider offering compact bioreactor platforms and continuous processing solutions.",
+      "spaces": [
+        "hardware_bioreactors",
+        "bioprocess",
+        "cdmo_scaleup"
+      ],
+      "primary_space": "hardware_bioreactors",
+      "sources": [
+        {
+          "url": "https://www.univercells.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "Belgium",
+      "x": -91.64904171785885,
+      "y": -29.73091275187123
+    },
+    {
+      "id": "visolis",
+      "name": "Visolis",
+      "website": "https://visolis.io",
+      "short_description": "Carbon-negative chemicals company using engineered yeast to produce sustainable aviation fuel precursors.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://visolis.io",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 128.6142310939001,
+      "y": 92.40283975331582
+    },
+    {
+      "id": "white-dog-labs",
+      "name": "White Dog Labs",
+      "website": "https://whitedoglabs.com",
+      "short_description": "Mixotrophic fermentation technology improving yield and carbon efficiency in industrial bioprocesses.",
+      "spaces": [
+        "bioprocess",
+        "strain_engineering"
+      ],
+      "primary_space": "bioprocess",
+      "sources": [
+        {
+          "url": "https://whitedoglabs.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 70.89406228229981,
+      "y": 4.577252141902461
+    },
+    {
+      "id": "wuxi-biologics",
+      "name": "WuXi Biologics",
+      "website": "https://www.wuxibiologics.com",
+      "short_description": "Global CRDMO for biologics with large-scale mammalian and microbial manufacturing capacity.",
+      "spaces": [
+        "cdmo_scaleup",
+        "bioprocess",
+        "analytical_qc"
+      ],
+      "primary_space": "cdmo_scaleup",
+      "sources": [
+        {
+          "url": "https://www.wuxibiologics.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "China",
+      "x": -162.59750660450828,
+      "y": 123.6926929161693
+    },
+    {
+      "id": "zymochem",
+      "name": "ZymoChem",
+      "website": "https://www.zymochem.com",
+      "short_description": "Bio-based polymers company using microbial fermentation to produce biodegradable materials.",
+      "spaces": [
+        "strain_engineering",
+        "bioprocess"
+      ],
+      "primary_space": "strain_engineering",
+      "sources": [
+        {
+          "url": "https://www.zymochem.com",
+          "note": "Company website"
+        }
+      ],
+      "hq_country": "USA",
+      "x": 126.21878464459368,
+      "y": 83.12949192745518
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-09-06T19:10:45.987Z",
+    "company_count": 92,
+    "embedding_model": "bag-of-words-v1",
+    "layout_method": "pca-2d-v1"
+  }
+}

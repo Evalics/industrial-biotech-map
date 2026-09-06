@@ -1,0 +1,13 @@
+id: danimer-scientific
+name: Danimer Scientific
+website: https://danimerscientific.com
+short_description: Bioplastics manufacturer producing PHA polymers via fermentation for packaging and consumer applications.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://danimerscientific.com
+    note: Company website

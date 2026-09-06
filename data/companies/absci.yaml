@@ -1,0 +1,13 @@
+id: absci
+name: Absci
+website: https://www.absci.com
+short_description: AI-driven biologics design and cell line development with integrated biomanufacturing capabilities.
+spaces:
+  - ai_ml_bioprocess
+  - strain_engineering
+  - cdmo_scaleup
+primary_space: ai_ml_bioprocess
+hq_country: USA
+sources:
+  - url: https://www.absci.com
+    note: Company website

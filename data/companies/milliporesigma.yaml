@@ -1,0 +1,13 @@
+id: milliporesigma
+name: MilliporeSigma
+website: https://www.sigmaaldrich.com
+short_description: Life science materials supplier providing filtration, chromatography, and bioprocess raw materials.
+spaces:
+  - downstream
+  - media_inputs
+  - analytical_qc
+primary_space: downstream
+hq_country: USA
+sources:
+  - url: https://www.sigmaaldrich.com/US/en/industries/biopharmaceutical-manufacturing
+    note: Biopharma manufacturing

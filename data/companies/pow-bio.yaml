@@ -1,0 +1,13 @@
+id: pow-bio
+name: Pow.bio
+website: https://pow.bio
+short_description: Continuous fermentation technology company improving bioprocess productivity with smart bioreactor control.
+spaces:
+  - bioprocess
+  - hardware_bioreactors
+  - ai_ml_bioprocess
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://pow.bio
+    note: Company website

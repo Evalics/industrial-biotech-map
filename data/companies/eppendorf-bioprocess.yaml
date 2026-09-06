@@ -1,0 +1,13 @@
+id: eppendorf-bioprocess
+name: Eppendorf Bioprocess
+website: https://www.eppendorf.com/bioprocess/
+short_description: Benchtop and pilot bioreactor systems with software for microbial and cell culture process development.
+spaces:
+  - hardware_bioreactors
+  - bioprocess
+  - software_lims_mes
+primary_space: hardware_bioreactors
+hq_country: Germany
+sources:
+  - url: https://www.eppendorf.com/bioprocess/
+    note: Bioprocess portfolio

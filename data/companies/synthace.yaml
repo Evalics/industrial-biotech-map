@@ -1,0 +1,13 @@
+id: synthace
+name: Synthace
+website: https://www.synthace.com
+short_description: Digital experiment platform (Anthaa) for designing and executing automated bioprocess and strain workflows.
+spaces:
+  - lab_automation
+  - software_lims_mes
+  - bioprocess
+primary_space: lab_automation
+hq_country: UK
+sources:
+  - url: https://www.synthace.com
+    note: Company website

@@ -1,0 +1,14 @@
+id: lanzatech
+name: LanzaTech
+website: https://lanzatech.com
+short_description: Carbon recycling biotech converting waste gases into ethanol and platform chemicals via gas fermentation.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - hardware_bioreactors
+  - cdmo_scaleup
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://lanzatech.com
+    note: Company website

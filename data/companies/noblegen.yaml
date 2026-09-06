@@ -1,0 +1,13 @@
+id: noblegen
+name: Noblegen
+website: https://noblegen.com
+short_description: Euglena fermentation platform producing functional ingredients and alternative proteins.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - media_inputs
+primary_space: bioprocess
+hq_country: Canada
+sources:
+  - url: https://noblegen.com
+    note: Company website

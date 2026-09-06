@@ -1,0 +1,13 @@
+id: debut-biotechnology
+name: Debut Biotechnology
+website: https://debutbio.com
+short_description: Cell-free and fermentation biomanufacturing platform for rare cosmetic and wellness ingredients.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://debutbio.com
+    note: Company website

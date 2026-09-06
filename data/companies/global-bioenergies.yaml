@@ -1,0 +1,13 @@
+id: global-bioenergies
+name: Global Bioenergies
+website: https://www.global-bioenergies.com
+short_description: Industrial biotech developing fermentation routes to isobutene and renewable gasoline components.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - cdmo_scaleup
+primary_space: bioprocess
+hq_country: France
+sources:
+  - url: https://www.global-bioenergies.com
+    note: Company website

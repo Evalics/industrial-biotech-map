@@ -1,0 +1,17 @@
+id: differential-bio
+name: Differential Bio
+website: https://differential.bio
+short_description: >-
+  Software and analytics for industrial biotech strain selection, bioprocess optimization, and biomanufacturing
+  intelligence.
+spaces:
+  - ai_ml_bioprocess
+  - software_lims_mes
+  - strain_engineering
+  - bioprocess
+primary_space: ai_ml_bioprocess
+hq_country: USA
+highlight: true
+sources:
+  - url: https://differential.bio
+    note: Company website

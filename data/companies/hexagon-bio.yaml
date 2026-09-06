@@ -1,0 +1,12 @@
+id: hexagon-bio
+name: Hexagon Bio
+website: https://www.hexagonbio.com
+short_description: Genomics platform mining microbial genomes for novel enzymes used in industrial bioprocesses.
+spaces:
+  - strain_engineering
+  - ai_ml_bioprocess
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://www.hexagonbio.com
+    note: Company website

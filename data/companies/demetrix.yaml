@@ -1,0 +1,13 @@
+id: demetrix
+name: Demetrix
+website: https://demetrixbio.com
+short_description: Fermentation platform for rare cannabinoids and other high-value natural products at commercial scale.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://demetrixbio.com
+    note: Company website

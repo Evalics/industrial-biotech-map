@@ -1,0 +1,12 @@
+id: twist-bioscience
+name: Twist Bioscience
+website: https://www.twistbioscience.com
+short_description: Synthetic DNA manufacturer supporting strain engineering, enzyme discovery, and bioprocess R&D.
+spaces:
+  - strain_engineering
+  - lab_automation
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://www.twistbioscience.com
+    note: Company website

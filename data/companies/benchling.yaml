@@ -1,0 +1,13 @@
+id: benchling
+name: Benchling
+website: https://www.benchling.com
+short_description: R&D cloud platform for molecular biology, strain design, and bioprocess data management in biotech.
+spaces:
+  - software_lims_mes
+  - strain_engineering
+  - bioprocess
+primary_space: software_lims_mes
+hq_country: USA
+sources:
+  - url: https://www.benchling.com/bioprocess
+    note: Bioprocess solutions

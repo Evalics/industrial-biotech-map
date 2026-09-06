@@ -1,0 +1,13 @@
+id: motif-foodworks
+name: Motif FoodWorks
+website: https://madewithmotif.com
+short_description: Food technology company using fermentation and ingredient science for plant-based product performance.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://madewithmotif.com
+    note: Company website

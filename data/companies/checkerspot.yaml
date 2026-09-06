@@ -1,0 +1,13 @@
+id: checkerspot
+name: Checkerspot
+website: https://checkerspot.com
+short_description: Materials science company using microalgae fermentation to produce performance oils and polyurethane inputs.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://checkerspot.com
+    note: Company website

@@ -1,0 +1,13 @@
+id: natures-fynd
+name: Nature's Fynd
+website: https://naturesfynd.com
+short_description: Food company commercializing Fy protein from a novel extremophile microbe grown in fermentation.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://naturesfynd.com
+    note: Company website

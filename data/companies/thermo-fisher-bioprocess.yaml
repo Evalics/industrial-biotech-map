@@ -1,0 +1,14 @@
+id: thermo-fisher-bioprocess
+name: Thermo Fisher Scientific (Bioproduction)
+website: https://www.thermofisher.com/us/en/home/brands/gibco.html
+short_description: Supplier of cell culture media, single-use bioreactors, and bioproduction analytics for biomanufacturing.
+spaces:
+  - media_inputs
+  - hardware_bioreactors
+  - bioprocess
+  - analytical_qc
+primary_space: media_inputs
+hq_country: USA
+sources:
+  - url: https://www.thermofisher.com/us/en/home/brands/gibco.html
+    note: Gibco bioproduction

@@ -1,0 +1,13 @@
+id: back-of-the-yards-algae
+name: Back of the Yards Algae Sciences
+website: https://byas.ai
+short_description: Algae fermentation and bioprocess ingredients for food colors, proteins, and sustainable chemicals.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://byas.ai
+    note: Company website

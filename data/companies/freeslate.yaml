@@ -1,0 +1,12 @@
+id: freeslate
+name: Freeslate
+website: https://www.freeslate.com
+short_description: High-throughput experimentation automation for bioprocess and catalyst screening in industrial R&D.
+spaces:
+  - lab_automation
+  - bioprocess
+primary_space: lab_automation
+hq_country: USA
+sources:
+  - url: https://www.freeslate.com
+    note: Company website

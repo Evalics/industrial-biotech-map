@@ -1,0 +1,12 @@
+id: lygos
+name: Lygos
+website: https://lygos.com
+short_description: Specialty chemicals producer using synthetic biology to make malonic acid and other bio-based building blocks.
+spaces:
+  - strain_engineering
+  - bioprocess
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://lygos.com
+    note: Company website

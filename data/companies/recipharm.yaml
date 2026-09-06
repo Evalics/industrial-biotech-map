@@ -1,0 +1,13 @@
+id: recipharm
+name: Recipharm
+website: https://www.recipharm.com
+short_description: Contract development and manufacturing organization with biologics and microbial production capabilities.
+spaces:
+  - cdmo_scaleup
+  - bioprocess
+  - downstream
+primary_space: cdmo_scaleup
+hq_country: Sweden
+sources:
+  - url: https://www.recipharm.com
+    note: Company website

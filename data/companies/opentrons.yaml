@@ -1,0 +1,12 @@
+id: opentrons
+name: Opentrons
+website: https://opentrons.com
+short_description: Lab automation platform with open-source pipetting robots used in strain engineering and screening workflows.
+spaces:
+  - lab_automation
+  - strain_engineering
+primary_space: lab_automation
+hq_country: USA
+sources:
+  - url: https://opentrons.com
+    note: Company website

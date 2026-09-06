@@ -1,0 +1,13 @@
+id: green-lab-technologies
+name: Green Lab Technologies
+website: https://greenlabtechnologies.com
+short_description: Fermentation-derived ingredients and toll manufacturing for food, beverage, and nutraceutical brands.
+spaces:
+  - bioprocess
+  - cdmo_scaleup
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://greenlabtechnologies.com
+    note: Company website

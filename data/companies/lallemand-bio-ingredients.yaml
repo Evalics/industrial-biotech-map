@@ -1,0 +1,12 @@
+id: lallemand-bio-ingredients
+name: Lallemand Bio-Ingredients
+website: https://www.lallemand.com/bio-ingredients/
+short_description: Manufacturer of yeast extracts, fermented ingredients, and specialty media components for bioprocess.
+spaces:
+  - media_inputs
+  - bioprocess
+primary_space: media_inputs
+hq_country: Canada
+sources:
+  - url: https://www.lallemand.com/bio-ingredients/
+    note: Bio-Ingredients division

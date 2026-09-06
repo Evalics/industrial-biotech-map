@@ -1,0 +1,13 @@
+id: enobraq
+name: EnobraQ
+website: https://enobaq.com
+short_description: Gas fermentation startup producing single-cell protein from industrial CO2 emissions.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - media_inputs
+primary_space: bioprocess
+hq_country: France
+sources:
+  - url: https://enobaq.com
+    note: Company website

@@ -1,0 +1,12 @@
+id: tulip-interfaces
+name: Tulip Interfaces
+website: https://tulip.co
+short_description: Frontline operations platform used in biomanufacturing for MES-style batch records and shop-floor data capture.
+spaces:
+  - software_lims_mes
+  - bioprocess
+primary_space: software_lims_mes
+hq_country: USA
+sources:
+  - url: https://tulip.co/industries/life-sciences/
+    note: Life sciences

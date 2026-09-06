@@ -1,0 +1,13 @@
+id: quartet-fs
+name: Quartet FS
+website: https://www.quartetfs.com
+short_description: Manufacturing data platform (ActivePivot) used for bioprocess batch analytics and golden-batch monitoring.
+spaces:
+  - software_lims_mes
+  - bioprocess
+  - analytical_qc
+primary_space: software_lims_mes
+hq_country: Luxembourg
+sources:
+  - url: https://www.quartetfs.com
+    note: Company website
