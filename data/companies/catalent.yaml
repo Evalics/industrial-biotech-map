@@ -1,0 +1,13 @@
+id: catalent
+name: Catalent
+website: https://www.catalent.com
+short_description: Contract development and manufacturing organization for biologics, microbial, and cell therapy production.
+spaces:
+  - cdmo_scaleup
+  - bioprocess
+  - downstream
+primary_space: cdmo_scaleup
+hq_country: USA
+sources:
+  - url: https://www.catalent.com
+    note: Company website

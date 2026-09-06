@@ -1,0 +1,13 @@
+id: arzeda
+name: Arzeda
+website: https://arzeda.com
+short_description: Computational protein design company building custom enzymes and pathways for industrial biomanufacturing.
+spaces:
+  - strain_engineering
+  - ai_ml_bioprocess
+  - bioprocess
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://arzeda.com
+    note: Company website

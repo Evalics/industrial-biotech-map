@@ -1,0 +1,13 @@
+id: repligen
+name: Repligen
+website: https://www.repligen.com
+short_description: Bioprocess equipment and consumables for filtration, chromatography, and process analytics.
+spaces:
+  - downstream
+  - bioprocess
+  - analytical_qc
+primary_space: downstream
+hq_country: USA
+sources:
+  - url: https://www.repligen.com
+    note: Company website

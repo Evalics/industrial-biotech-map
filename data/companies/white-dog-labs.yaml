@@ -1,0 +1,12 @@
+id: white-dog-labs
+name: White Dog Labs
+website: https://whitedoglabs.com
+short_description: Mixotrophic fermentation technology improving yield and carbon efficiency in industrial bioprocesses.
+spaces:
+  - bioprocess
+  - strain_engineering
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://whitedoglabs.com
+    note: Company website

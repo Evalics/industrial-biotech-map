@@ -1,0 +1,13 @@
+id: string-bio
+name: String Bio
+website: https://stringbio.com
+short_description: Methane-to-protein biotech using gas fermentation for sustainable feed and food ingredients.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - media_inputs
+primary_space: bioprocess
+hq_country: India
+sources:
+  - url: https://stringbio.com
+    note: Company website

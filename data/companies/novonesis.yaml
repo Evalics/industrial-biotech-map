@@ -1,0 +1,13 @@
+id: novonesis
+name: Novonesis
+website: https://www.novonesis.com
+short_description: Industrial biosolutions company producing enzymes and microbial cultures for food, bioenergy, and biomanufacturing.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - media_inputs
+primary_space: bioprocess
+hq_country: Denmark
+sources:
+  - url: https://www.novonesis.com
+    note: Company website

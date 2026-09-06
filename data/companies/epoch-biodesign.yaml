@@ -1,0 +1,13 @@
+id: epoch-biodesign
+name: Epoch Biodesign
+website: https://epochbiodesign.com
+short_description: Enzyme engineering company using ML to design biocatalysts for plastic degradation and green chemistry.
+spaces:
+  - strain_engineering
+  - ai_ml_bioprocess
+  - bioprocess
+primary_space: strain_engineering
+hq_country: UK
+sources:
+  - url: https://epochbiodesign.com
+    note: Company website

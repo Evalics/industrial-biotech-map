@@ -1,0 +1,12 @@
+id: scispot
+name: Scispot
+website: https://www.scispot.com
+short_description: Lab data platform and ELN for biotech R&D teams managing strain engineering and bioprocess records.
+spaces:
+  - software_lims_mes
+  - strain_engineering
+primary_space: software_lims_mes
+hq_country: Canada
+sources:
+  - url: https://www.scispot.com
+    note: Company website

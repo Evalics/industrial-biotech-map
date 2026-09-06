@@ -1,0 +1,13 @@
+id: roquette
+name: Roquette
+website: https://www.roquette.com
+short_description: Plant-based and fermentation-derived ingredients supplier for nutrition, pharma, and bioprocess media.
+spaces:
+  - media_inputs
+  - bioprocess
+  - downstream
+primary_space: media_inputs
+hq_country: France
+sources:
+  - url: https://www.roquette.com
+    note: Company website

@@ -1,0 +1,13 @@
+id: modern-meadow
+name: Modern Meadow
+website: https://modernmeadow.com
+short_description: Biofabrication company developing fermentation-derived proteins and biomaterials for fashion and consumer goods.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://modernmeadow.com
+    note: Company website

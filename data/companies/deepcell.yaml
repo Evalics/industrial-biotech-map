@@ -1,0 +1,13 @@
+id: deepcell
+name: Deepcell
+website: https://deepcell.com
+short_description: AI-powered single-cell analysis and sorting platform applied to cell line development and bioprocess research.
+spaces:
+  - ai_ml_bioprocess
+  - analytical_qc
+  - lab_automation
+primary_space: ai_ml_bioprocess
+hq_country: USA
+sources:
+  - url: https://deepcell.com
+    note: Company website

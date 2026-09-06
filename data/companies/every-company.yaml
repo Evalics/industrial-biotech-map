@@ -1,0 +1,13 @@
+id: every-company
+name: The EVERY Company
+website: https://every.com
+short_description: Precision fermentation company producing animal-free egg proteins for food manufacturers.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://every.com
+    note: Company website

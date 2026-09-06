@@ -1,0 +1,12 @@
+id: visolis
+name: Visolis
+website: https://visolis.io
+short_description: Carbon-negative chemicals company using engineered yeast to produce sustainable aviation fuel precursors.
+spaces:
+  - strain_engineering
+  - bioprocess
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://visolis.io
+    note: Company website

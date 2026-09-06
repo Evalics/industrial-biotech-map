@@ -1,0 +1,12 @@
+id: christeyns-bio
+name: Christeyns Food & Bioprocessing
+website: https://www.christeyns.com/food-bioprocessing
+short_description: Bioprocessing solutions and hygiene technology for fermented food and industrial biotechnology plants.
+spaces:
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: Belgium
+sources:
+  - url: https://www.christeyns.com/food-bioprocessing
+    note: Food & bioprocessing

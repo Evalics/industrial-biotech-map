@@ -1,0 +1,12 @@
+id: locus-bio
+name: Locus Bio
+website: https://locusbio.com
+short_description: Microbial solutions company using fermentation-derived biosurfactants for agriculture and industrial cleaning.
+spaces:
+  - strain_engineering
+  - bioprocess
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://locusbio.com
+    note: Company website

@@ -1,0 +1,13 @@
+id: remilk
+name: Remilk
+website: https://www.remilk.com
+short_description: Precision fermentation dairy proteins produced without cows for global food ingredient supply.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - cdmo_scaleup
+primary_space: bioprocess
+hq_country: Israel
+sources:
+  - url: https://www.remilk.com
+    note: Company website

@@ -1,0 +1,12 @@
+id: 908-devices
+name: 908 Devices
+website: https://908devices.com
+short_description: Analytical instruments including REBEL and ZipChip for at-line media analysis and bioprocess monitoring.
+spaces:
+  - analytical_qc
+  - bioprocess
+primary_space: analytical_qc
+hq_country: USA
+sources:
+  - url: https://908devices.com/applications/bioprocessing/
+    note: Bioprocessing applications

@@ -1,0 +1,12 @@
+id: inscripta
+name: Inscripta
+website: https://www.inscripta.com
+short_description: Genome engineering tools including Onyx platform for rapid strain improvement in industrial microbes.
+spaces:
+  - strain_engineering
+  - lab_automation
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://www.inscripta.com
+    note: Company website

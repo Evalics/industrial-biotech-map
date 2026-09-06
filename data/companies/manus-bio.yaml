@@ -1,0 +1,13 @@
+id: manus-bio
+name: Manus Bio
+website: https://manusbio.com
+short_description: Natural product biomanufacturing company using fermentation to replace plant extraction for flavors and fragrances.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://manusbio.com
+    note: Company website

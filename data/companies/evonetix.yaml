@@ -1,0 +1,12 @@
+id: evonetix
+name: Evonetix
+website: https://www.evonetix.com
+short_description: Silicon-based DNA synthesis technology enabling rapid build-test cycles for strain engineering.
+spaces:
+  - strain_engineering
+  - lab_automation
+primary_space: strain_engineering
+hq_country: UK
+sources:
+  - url: https://www.evonetix.com
+    note: Company website

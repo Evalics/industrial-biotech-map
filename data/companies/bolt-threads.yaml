@@ -1,0 +1,13 @@
+id: bolt-threads
+name: Bolt Threads
+website: https://boltthreads.com
+short_description: Materials company using fermentation to produce Mylo leather and spider-silk-inspired fibers at industrial scale.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://boltthreads.com
+    note: Company website

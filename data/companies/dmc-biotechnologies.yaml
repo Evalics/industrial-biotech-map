@@ -1,0 +1,13 @@
+id: dmc-biotechnologies
+name: DMC Biotechnologies
+website: https://dmcbio.com
+short_description: Dynamic metabolic control platform for rapid fermentation strain optimization and bioprocess development.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - ai_ml_bioprocess
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://dmcbio.com
+    note: Company website

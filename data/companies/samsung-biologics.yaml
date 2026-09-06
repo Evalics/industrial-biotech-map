@@ -1,0 +1,13 @@
+id: samsung-biologics
+name: Samsung Biologics
+website: https://samsungbiologics.com
+short_description: Large-scale biologics CDMO operating some of the world's biggest mammalian cell culture manufacturing facilities.
+spaces:
+  - cdmo_scaleup
+  - bioprocess
+  - downstream
+primary_space: cdmo_scaleup
+hq_country: South Korea
+sources:
+  - url: https://samsungbiologics.com
+    note: Company website

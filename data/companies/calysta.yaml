@@ -1,0 +1,13 @@
+id: calysta
+name: Calysta
+website: https://calysta.com
+short_description: Protein ingredients company using gas fermentation to produce FeedKind single-cell protein for aquaculture.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://calysta.com
+    note: Company website

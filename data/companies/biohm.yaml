@@ -1,0 +1,12 @@
+id: biohm
+name: Biohm
+website: https://biohm.co.uk
+short_description: Biotechnology company using mycelium fermentation for sustainable building materials and circular manufacturing.
+spaces:
+  - bioprocess
+  - strain_engineering
+primary_space: bioprocess
+hq_country: UK
+sources:
+  - url: https://biohm.co.uk
+    note: Company website

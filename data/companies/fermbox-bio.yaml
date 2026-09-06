@@ -1,0 +1,13 @@
+id: fermbox-bio
+name: Fermbox Bio
+website: https://fermbox.bio
+short_description: Synthetic biology CDMO focused on enzyme and small-molecule fermentation for industrial partners.
+spaces:
+  - cdmo_scaleup
+  - strain_engineering
+  - bioprocess
+primary_space: cdmo_scaleup
+hq_country: India
+sources:
+  - url: https://fermbox.bio
+    note: Company website

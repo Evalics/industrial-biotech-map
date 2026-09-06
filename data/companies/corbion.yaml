@@ -1,0 +1,13 @@
+id: corbion
+name: Corbion
+website: https://www.corbion.com
+short_description: Lactic acid and fermentation-derived ingredients manufacturer for food preservation and bioplastics.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - downstream
+primary_space: bioprocess
+hq_country: Netherlands
+sources:
+  - url: https://www.corbion.com
+    note: Company website

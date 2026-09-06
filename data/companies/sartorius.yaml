@@ -1,0 +1,13 @@
+id: sartorius
+name: Sartorius
+website: https://www.sartorius.com
+short_description: Bioprocess hardware and analytics provider offering bioreactors, filtration, and PAT tools for manufacturing.
+spaces:
+  - hardware_bioreactors
+  - bioprocess
+  - analytical_qc
+primary_space: hardware_bioreactors
+hq_country: Germany
+sources:
+  - url: https://www.sartorius.com/en/products/process-analytical-technology
+    note: PAT products

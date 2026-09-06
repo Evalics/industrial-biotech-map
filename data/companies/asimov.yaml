@@ -1,0 +1,13 @@
+id: asimov
+name: Asimov
+website: https://www.asimov.com
+short_description: Synthetic biology design platform combining CAD, simulation, and cell-line engineering for biomanufacturing.
+spaces:
+  - strain_engineering
+  - ai_ml_bioprocess
+  - software_lims_mes
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://www.asimov.com
+    note: Company website

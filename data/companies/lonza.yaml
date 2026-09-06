@@ -1,0 +1,14 @@
+id: lonza
+name: Lonza
+website: https://www.lonza.com
+short_description: Global CDMO providing bioprocess development, mammalian manufacturing, and microbial production services.
+spaces:
+  - cdmo_scaleup
+  - bioprocess
+  - downstream
+  - analytical_qc
+primary_space: cdmo_scaleup
+hq_country: Switzerland
+sources:
+  - url: https://www.lonza.com/biologics
+    note: Biologics division

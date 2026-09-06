@@ -1,0 +1,12 @@
+id: formo
+name: Formo
+website: https://formo.bio
+short_description: Animal-free dairy company using precision fermentation to produce cheese proteins in Europe.
+spaces:
+  - strain_engineering
+  - bioprocess
+primary_space: bioprocess
+hq_country: Germany
+sources:
+  - url: https://formo.bio
+    note: Company website

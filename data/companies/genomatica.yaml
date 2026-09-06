@@ -1,0 +1,13 @@
+id: genomatica
+name: Genomatica
+website: https://genomatica.com
+short_description: Develops and licenses fermentation processes for bio-based nylon, BDO, and other industrial chemicals.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - cdmo_scaleup
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://genomatica.com
+    note: Company website

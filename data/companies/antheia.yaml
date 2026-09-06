@@ -1,0 +1,13 @@
+id: antheia
+name: Antheia
+website: https://antheia.bio
+short_description: Biomanufacturing company producing pharmaceutical precursors and key starting materials via fermentation.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://antheia.bio
+    note: Company website

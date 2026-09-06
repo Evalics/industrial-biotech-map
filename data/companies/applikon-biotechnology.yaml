@@ -1,0 +1,12 @@
+id: applikon-biotechnology
+name: Applikon Biotechnology
+website: https://www.applikon-biotechnology.com
+short_description: Bioreactor systems and controllers for laboratory and pilot-scale microbial fermentation development.
+spaces:
+  - hardware_bioreactors
+  - bioprocess
+primary_space: hardware_bioreactors
+hq_country: Netherlands
+sources:
+  - url: https://www.applikon-biotechnology.com
+    note: Company website

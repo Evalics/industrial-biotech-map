@@ -1,0 +1,13 @@
+id: knipbio
+name: KnipBio
+website: https://www.knipbio.com
+short_description: Single-cell protein producer using methanol-assimilating microbes for sustainable aquaculture feed.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://www.knipbio.com
+    note: Company website

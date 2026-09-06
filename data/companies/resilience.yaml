@@ -1,0 +1,13 @@
+id: resilience
+name: National Resilience
+website: https://resilience.com
+short_description: Biomanufacturing technology company operating CDMO facilities for biologics and advanced therapies.
+spaces:
+  - cdmo_scaleup
+  - bioprocess
+  - downstream
+primary_space: cdmo_scaleup
+hq_country: USA
+sources:
+  - url: https://resilience.com
+    note: Company website

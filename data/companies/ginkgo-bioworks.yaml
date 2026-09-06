@@ -1,0 +1,13 @@
+id: ginkgo-bioworks
+name: Ginkgo Bioworks
+website: https://www.ginkgobioworks.com
+short_description: Cell programming platform for engineered microbes used in flavors, fragrances, agriculture, and biomanufacturing.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - cdmo_scaleup
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://www.ginkgobioworks.com
+    note: Company website

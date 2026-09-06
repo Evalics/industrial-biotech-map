@@ -1,0 +1,13 @@
+id: perfect-day
+name: Perfect Day
+website: https://perfectday.com
+short_description: Animal-free dairy proteins produced via precision fermentation for food and beverage manufacturers.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://perfectday.com
+    note: Company website

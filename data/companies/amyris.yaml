@@ -1,0 +1,16 @@
+id: amyris
+name: Amyris
+website: https://amyris.com
+short_description: >-
+  Synthetic biology company producing fermentation-derived ingredients for clean beauty, health, and specialty
+  chemicals.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+  - media_inputs
+primary_space: bioprocess
+hq_country: USA
+sources:
+  - url: https://amyris.com
+    note: Company website

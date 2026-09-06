@@ -1,0 +1,13 @@
+id: abzena
+name: Abzena
+website: https://abzena.com
+short_description: Bioconjugation and biologics CDMO supporting process development and GMP manufacturing.
+spaces:
+  - cdmo_scaleup
+  - downstream
+  - analytical_qc
+primary_space: cdmo_scaleup
+hq_country: UK
+sources:
+  - url: https://abzena.com
+    note: Company website

@@ -1,0 +1,13 @@
+id: carbios
+name: Carbios
+website: https://carbios.com
+short_description: Enzymatic recycling and bioprocess technologies for PET plastic depolymerization and circular materials.
+spaces:
+  - strain_engineering
+  - bioprocess
+  - downstream
+primary_space: bioprocess
+hq_country: France
+sources:
+  - url: https://carbios.com
+    note: Company website

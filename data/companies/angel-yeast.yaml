@@ -1,0 +1,13 @@
+id: angel-yeast
+name: Angel Yeast
+website: https://www.angelyeast.com
+short_description: Global yeast and fermentation ingredient supplier for food, animal nutrition, and bioprocess media.
+spaces:
+  - media_inputs
+  - bioprocess
+  - strain_engineering
+primary_space: media_inputs
+hq_country: China
+sources:
+  - url: https://www.angelyeast.com
+    note: Company website

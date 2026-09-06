@@ -1,0 +1,13 @@
+id: wuxi-biologics
+name: WuXi Biologics
+website: https://www.wuxibiologics.com
+short_description: Global CRDMO for biologics with large-scale mammalian and microbial manufacturing capacity.
+spaces:
+  - cdmo_scaleup
+  - bioprocess
+  - analytical_qc
+primary_space: cdmo_scaleup
+hq_country: China
+sources:
+  - url: https://www.wuxibiologics.com
+    note: Company website

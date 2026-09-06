@@ -1,0 +1,13 @@
+id: liberation-labs
+name: Liberation Labs
+website: https://liberationlabs.com
+short_description: Precision fermentation CDMO building dedicated capacity for food and industrial protein manufacturing.
+spaces:
+  - cdmo_scaleup
+  - bioprocess
+  - downstream
+primary_space: cdmo_scaleup
+hq_country: USA
+sources:
+  - url: https://liberationlabs.com
+    note: Company website

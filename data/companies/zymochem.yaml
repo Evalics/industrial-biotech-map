@@ -1,0 +1,12 @@
+id: zymochem
+name: ZymoChem
+website: https://www.zymochem.com
+short_description: Bio-based polymers company using microbial fermentation to produce biodegradable materials.
+spaces:
+  - strain_engineering
+  - bioprocess
+primary_space: strain_engineering
+hq_country: USA
+sources:
+  - url: https://www.zymochem.com
+    note: Company website

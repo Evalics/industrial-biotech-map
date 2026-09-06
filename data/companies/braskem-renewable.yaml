@@ -1,0 +1,13 @@
+id: braskem-renewable
+name: Braskem (I'm green)
+website: https://www.braskem.com.br/igrn
+short_description: Producer of bio-based polyethylene and renewable chemicals from sugarcane ethanol feedstocks.
+spaces:
+  - bioprocess
+  - downstream
+  - cdmo_scaleup
+primary_space: bioprocess
+hq_country: Brazil
+sources:
+  - url: https://www.braskem.com.br/igrn
+    note: I'm green bio-based portfolio

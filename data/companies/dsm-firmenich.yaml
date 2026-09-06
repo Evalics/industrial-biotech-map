@@ -1,0 +1,13 @@
+id: dsm-firmenich
+name: dsm-firmenich
+website: https://www.dsm-firmenich.com
+short_description: Ingredients company with fermentation platforms for vitamins, cultures, and bio-based aroma molecules.
+spaces:
+  - bioprocess
+  - strain_engineering
+  - downstream
+primary_space: bioprocess
+hq_country: Switzerland
+sources:
+  - url: https://www.dsm-firmenich.com
+    note: Company website
